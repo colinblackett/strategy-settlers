@@ -43,7 +43,7 @@ When any player plays a soldier, two things happen:
 
 ## Optional rules
 
-Three further house rules you can adopt to push out even more randomness:
+More house rules you can adopt to eliminate even more randomness:
 
 ### Development card reveal
 
